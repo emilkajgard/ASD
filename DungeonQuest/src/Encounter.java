@@ -3,9 +3,8 @@
  */
 
 /**
- * @author emilkajgard
  *
  */
-public interface Encounter {
+public abstract interface Encounter {
 
 }
